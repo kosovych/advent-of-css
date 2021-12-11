@@ -1,1 +1,1 @@
-<img src="./img/adventofcss.png">
+<img src="./images/adventofcss.png">
