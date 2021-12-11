@@ -1,0 +1,24 @@
+:root {
+  --main-background-color: #EFF0F6;
+  --border-color: #d7d6fc;
+  --primary-purple: #6B00F5;
+  --pattens-blue: #e1f0fe;
+  --ghost-white: #f7f7ff;
+  --white-ice: #defef0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  border: none;
+}

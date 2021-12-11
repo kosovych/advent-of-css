@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "French Fries with Ketchup",
+    "price": 4.50,
+    "image": "plate__french-fries.png"
+  },
+  {
+    "id": "2",
+    "title": "Salmon and Vegetables",
+    "price": 10.2,
+    "image": "plate__salmon-vegetables.png"
+  },
+  {
+    "id": "3",
+    "title": "Spaghetti with Meat Sauce",
+    "price": 3.25,
+    "image": "plate__spaghetti-meat-sauce.png"
+  },
+  {
+    "id": "4",
+    "title": "Chicken Salad",
+    "price": 5.2,
+    "image": "plate__chicken-salad.png"
+  },
+  {
+    "id": "5",
+    "title": "Ravioli",
+    "price": 3.25,
+    "image": "plate__ravioli.png"
+  },
+  {
+    "id": "6",
+    "title": "Spaghetti with Meat and Sauce",
+    "price": 1.5,
+    "image": "plate__spaghetti-meat-sauce.png"
+  },
+  {
+    "id": "7",
+    "title": "Tortellini",
+    "price": 6.1,
+    "image": "plate__tortellini.png"
+  },
+  {
+    "id": "8",
+    "title": "Bacon eggs",
+    "price": 2.8,
+    "image": "plate__bacon-eggs.png"
+  }
+]

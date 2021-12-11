@@ -1,0 +1,10 @@
+.menu-list {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 26px;
+  list-style: none;
+  overflow: scroll;
+}

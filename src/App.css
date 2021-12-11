@@ -1,0 +1,20 @@
+.app {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  position: relative;
+  background-color: var(--main-background-color);
+  min-height: 100vh;
+  max-height: 100vh;
+  background:
+    bottom right url('/src/img/bg__btm-right.svg'),
+    top right url('/src/img/bg__top-right.svg'),
+    left center url('/src/img/bg__left.svg');
+  background-repeat: no-repeat;
+}
+
+.app__inner {
+  padding: 106px 24px;
+  display: flex;
+  gap: 50px;
+}

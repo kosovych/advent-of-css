@@ -1,0 +1,35 @@
+.cart-total {
+  display: table;
+  font-weight: 700;
+  text-align: right;
+  padding-left: 24px;
+  padding-right: 28px;
+  padding-bottom: 32px;
+  margin-right: 0;
+  margin-left: auto;
+}
+
+.cart-total__row {
+  display: table-row;
+}
+
+.cart-total__row:not(:last-child) span {
+  padding-bottom: 18px;
+}
+
+.cart-total__row-title {
+  display: table-cell;
+  font-size: 16px;
+  line-height: 32px;
+  padding-right: 26px;
+}
+
+.cart-total__value {
+  display: table-cell;
+  font-size: 32px;
+  line-height: 32px;
+}
+
+.cart-total__value--main {
+  color: var(--primary-purple);
+}

@@ -1,0 +1,7 @@
+.cart__empty {
+  padding-left: 36px;
+}
+
+.cart__wrapper {
+  display: flex;
+}
